@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
+  <strong><a href="https://www.qingr.tech">Official Website</a></strong> |
+  <strong><a href="https://t.me/KissQingR">Telegram</a></strong> |
 
 </p>
 
