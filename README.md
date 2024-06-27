@@ -2,7 +2,7 @@
   <a href="https://www.qingr.tech"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.qingr.tech">KeQing Ling</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.qingr.moe">KeQing Ling</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.qingr.tech">Official Website</a></strong> |
-  <strong><a href="https://t.me/KissQingR">Telegram</a></strong> |
+  <strong><a href="https://www.qingr.moe">Official Website</a></strong> |
+  <strong><a href="https://t.me/KissKeQing">Telegram</a></strong> |
 
 </p>
 
